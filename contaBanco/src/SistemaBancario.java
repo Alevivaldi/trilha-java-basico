@@ -3,8 +3,7 @@ public class SistemaBancario {
     private String NomeCliente = null;
     private String agencia = null;
     private double saldo = 0.0;
-    
-   
+      
 
 
     public int getNumero() {

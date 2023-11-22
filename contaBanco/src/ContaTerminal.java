@@ -19,7 +19,6 @@ public class ContaTerminal {
         System.out.println("Digite o valor Desejado para Deposito ");
         sistema.setSaldo(sc.nextDouble());
                        
-
         System.out.println("Olá "+sistema.getNomeCliente()+", obrigado por criar uma conta em nosso banco, sua agência é "+
         sistema.getAgencia()+", conta "+sistema.getNumero()+" e seu saldo "+sistema.getSaldo()+" já está disponível para saque.");
         
